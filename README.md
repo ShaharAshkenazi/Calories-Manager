@@ -1,6 +1,6 @@
-# Expense Tracker Application
+# Calories Manager Application
 
-The Expense Tracker Application is a web-based application built with Express.js and MongoDB that allows users to track their expenses and generate reports based on their spending habits. It provides functionalities for adding costs, generating monthly reports, and retrieving user information.
+The Calories Manager Application is a web-based application built with Express.js and MongoDB that allows users to track their expenses and generate reports based on their spending habits. It provides functionalities for adding costs, generating monthly reports, and retrieving user information.
 
 ## Features
 
